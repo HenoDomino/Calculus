@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculus</string>
+    <string name="title_main">Main page</string>
+    <string name="title_game">Game page</string>
+    <string name="title_result">Result page</string>
+    <string name="label_start">Start</string>
+    <string name="label_plus">+</string>
+    <string name="label_equal">=</string>
+    <string name="label_question">\?</string>
+    <string name="label_zero">0</string>
+    <string name="label_close">Close</string>
+    <string name="label_result_errors">Error count: %d of %d</string>
+    <string name="label_result_time">Time elapsed: %d seconds</string>
+</resources>
